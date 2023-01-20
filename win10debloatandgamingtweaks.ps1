@@ -31,7 +31,7 @@ $tweaks = @(
 	"Write-ColorOutput", #Utilizing Colors for better Warning messages!
 	"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
 	"InstallMVC", #DaddyMadu install Microsoft Visualstudio required for HPET service!
-	"Install7Zip",
+	#"Install7Zip",
 	#"InstallNotepadplusplus",
 	#"InstallIrfanview",
 	#"InstallVLC",
@@ -192,7 +192,7 @@ $tweaks = @(
 	# "InstallHyperV",              # "UninstallHyperV",
 	"SetPhotoViewerAssociation",    # "UnsetPhotoViewerAssociation",
 	"AddPhotoViewerOpenWith",       # "RemovePhotoViewerOpenWith",
-	"InstallPDFPrinter",		# "UninstallPDFPrinter",
+	#"InstallPDFPrinter",		# "UninstallPDFPrinter",
 	# "UninstallXPSPrinter",          # "InstallXPSPrinter",
 	# "RemoveFaxPrinter",             # "AddFaxPrinter",
 	"SVCHostTweak",
@@ -220,7 +220,7 @@ $tweaks = @(
 	"ForceContiguousM",
 	"DecreaseMKBuffer",
 	"StophighDPC",
-	"NvidiaTweaks",
+	#"NvidiaTweaks",
 	"AMDGPUTweaks",
 	"NetworkOptimizations",
 	"RemoveEdit3D",
